@@ -13,7 +13,7 @@
 
 📊 **本周github主要开发时间**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShowMeAI-official)](https://github.com/ShowMeAI-official)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShowMeAI-Hub)](https://github.com/ShowMeAI-Hub)
 
 -------
 **📝 最新项目&文章**
@@ -24,4 +24,4 @@
 - [**NLP项目和资源大全**](https://github.com/HanXinzi-AI/awesome-NLP-resources): 周更新的各种NLP板块涉及的项目和工具资源汇集列表
 - [**CV项目和资源大全**](https://github.com/HanXinzi-AI/awesome-computer-vision-resources): 周更新的各种CV板块涉及的项目和工具资源汇集列表
 
-<p align="center"> <img src="https://gpvc.arturio.dev/ShowMeAI-official" alt="visitors"> </p>
+<p align="center"> <img src="https://gpvc.arturio.dev/ShowMeAI-Hub" alt="visitors"> </p>
