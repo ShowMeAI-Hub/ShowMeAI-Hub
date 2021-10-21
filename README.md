@@ -1,7 +1,7 @@
 <h2 align="center">👋 欢迎来到ShowMeAI的github！</h2>
 <p align="center">
-  <a href="https://showmeai-hub.github.io/">博客</a> •
-  <a href="http://show-me-ai.com">网站</a>
+  <a href="http://blog.showmeai.tech/">博客</a> •
+  <a href="http://www.showmeai.tech">网站</a>
 </p>
 
 
@@ -18,10 +18,10 @@
 -------
 **📝 最新项目&文章**
 
-- [**算法求职市场现状与需求数据分析**](https://showmeai-hub.github.io/job-and-hiring/): 算法招聘市场行情、需求及技能点多维度数据分析
-- [**《CS224n深度学习与自然语言处理》课程学习资料**](https://showmeai-hub.github.io/cs224n-course-materials-info/): 斯坦福cs224n课程全套学习资料
-- [**《CS229机器学习》课程速查表**](https://showmeai-hub.github.io/cs229/): 斯坦福cs229机器学习课程速查表
-- [**《CS230深度学习》课程速查表**](https://showmeai-hub.github.io/cs230/): 斯坦福cs230深度学习课程速查表
+- [**算法求职市场现状与需求数据分析**](http://blog.showmeai.tech/job-and-hiring/): 算法招聘市场行情、需求及技能点多维度数据分析
+- [**《CS224n深度学习与自然语言处理》课程学习资料**](http://blog.showmeai.tech/cs224n-course-materials-info/): 斯坦福cs224n课程全套学习资料
+- [**《CS229机器学习》课程速查表**](http://blog.showmeai.tech/cs229/): 斯坦福cs229机器学习课程速查表
+- [**《CS230深度学习》课程速查表**](http://blog.showmeai.tech/cs230/): 斯坦福cs230深度学习课程速查表
 - [**Python资源汇集列表**](https://github.com/HanXinzi-AI/awesome-python-resources): 周更新的各种应用方向与主题的资源汇集列表
 - [**python机器学习资源大全**](https://github.com/HanXinzi-AI/awesome-python-machine-learning-resources): 周更新的各种python机器学习资源汇集列表
 - [**Jupyter及相关工具资源大全**](https://github.com/HanXinzi-AI/awesome-jupyter-resources): 周更新的各种Jupyter及相关工具资源汇集列表
